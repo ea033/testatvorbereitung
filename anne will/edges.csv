@@ -1,0 +1,39 @@
+from,to,relationship
+500,Ursula von der Leyen,1
+500,Lars Klingbeil,1
+500,Norbert Röttgen,1
+500,Sahra Wagenknecht,1
+500,Constanze Stelzenmüller,1
+501,Christian Lindner,1
+501,Norbert Röttgen,1
+501,Karl Schlögel,1
+501,Ljudmyla Melnyk,1
+501,Kristina Dunz,1
+501,Egils Levits,1
+502,Annalena Baerbock,1
+502,Frans Timmermans,1
+502,Andrij Melnyk,1
+502,Alexander Graf Lambsdorff,1
+502,Egon Ramms,1
+503,Robert Habeck,1
+503,Lars Klingbeil,1
+503,Claudia Major,1
+503,Katja Petrowskaja,1
+503,Roderich Kiesewetter,1
+504,Christine Lambrecht,1
+504,Alexander Graf Lambsdorff,1
+504,Stefanie Babst,1
+504,Christoph Heusgen,1
+504,Marina Weisband,1
+505,Olaf Scholz,1
+CDU,Roderich Kiesewetter,2
+CDU,Norbert Röttgen,2
+CDU,Ursula von der Leyen,2
+SPD,Olaf Scholz,2
+SPD,Lars Klingbeil,2
+SPD,Christine Lambrecht,2
+GREEN,Marina Weisband,2
+GREEN,Annalena Baerbock,2
+GREEN,Robert Habeck,2
+FDP,Christian Lindner,2
+LINKE,Sahra Wagenknecht,2
